@@ -5,5 +5,5 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "python.pythonPath": "api/.venv/Scripts/python"
+  "python.defaultInterpreterPath": "api/.venv/Scripts/python"
 }
